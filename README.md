@@ -12,9 +12,10 @@ To download and install:
 
 Note:
 
-* Currently, the costs plot feature is not working within the application. If this is something you require, it will work using installation method 2 above for now. 
-* This is not designed to be the most quick and efficient implementation of a neural network, but hopefully an easy to use and attractive interface.
+* The black console box will appear when the application is loading up, it may take a little longer to start first time it is run. This black console box will display errors and will let you know if the program is still computing.
+* The costs plot feature may take a little longer to load on the first run of each start-up.
+* I am soon to start university to learn more about ML, so will try to update it with further functionality. Also let me know if there are any other missing features which you would like!
 
 A very simple sample file of data is also provided to help illustrate how the software can be used.
 
-If you have found this free software useful or enjoyed using it, please consider making a non-obligatory donation to the support the creator using this [PayPal link](https://www.paypal.me/HenryBroomfield1998). 50% of all donations will go to [Alzheimer's Research UK](https://www.alzheimersresearchuk.org/), a cause which is striving to help understand and improve our own, internal neural networks. Try to leave an identifying note such as 'NNGUI', so that the charitable donation can be easily rerouted.
+If you have found this free software useful or enjoyed using it, please consider making a non-obligatory donation to support me using this [PayPal link](https://www.paypal.me/HenryBroomfield1998). I will pledge 50% of all donations to [Alzheimer's Research UK](https://www.alzheimersresearchuk.org/), a cause which is striving to help understand and improve our own, internal neural networks. Try to leave an identifying note such as 'NNGUI', so that the charitable donation can be easily rerouted.
