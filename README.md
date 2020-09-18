@@ -6,7 +6,7 @@ Source code files can be found above.
 To download and install:
 
 1. (Recommended for Windows) Follow this [link](https://www.dropbox.com/sh/s514dlfbqtqonoq/AACub-6b_FEfYOT0OCXnVyfDa?dl=0) to find an installer on dropbox to easily download the application.
-2. Download the source files (.py and .ico ones) to the same file path and execute henpy_NN_GUI.py. You may be required to download more Python packages if not all those which are required are installed on your device.
+2. Download the source files (.py and .ico and .dll ones) to the same file path and execute henpy_NN_GUI.py. You may be required to download more Python packages if not all those which are required are installed on your device.
 
 ![Demo](https://github.com/HennersBro98/neural-networks-gui/blob/master/videos/NN_demonstration.gif "Demo")
 
