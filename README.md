@@ -1,5 +1,5 @@
 # neural-networks-gui
-***A user interface for working with neural networks***
+***A user interface for working with neural networks.***
 
 Source code files can be found above.
 
